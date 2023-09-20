@@ -13,3 +13,6 @@
 [submodule "project/matching_service"]
 	path = project/matching_service
 	url = git@github.com:CS3219-AY2324S1-G04/peerprep_matching_service.git
+[submodule "assignment_1"]
+	path = assignment_1
+	url = git@github.com:CS3219-AY2324S1-G04/cs3219_assignment_1.git
