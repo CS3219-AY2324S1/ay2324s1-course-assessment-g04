@@ -7,16 +7,26 @@ This repository is designed as a collection of Git submodules.
 
 By default, `git clone` will not clone submodule repositories, leaving you with empty directories where the submodule repository files should be. To clone all files including those of the submodule repositories, use the `--recurse-submodules` option.
 
-```
+```bash
 git clone --recurse-submodules git@github.com:CS3219-AY2324S1/ay2324s1-course-assessment-g04.git
 ```
 
-### Updating Submodule
+### Updating Specific Submodule
 
 Git submodule points to a specific commit in the submodule repository. When a submodule repository is updated, the parent repository has to be updated manually.
 
-```
+```bash
 cd <submodule_repo_dir>
 git pull origin master
 cd <parent_repo_dir>
+git add .
+git commit
+```
+
+### Updating All Submodules
+
+```bash
+git pull --recurse-submodules
+git add .
+git commit
 ```
