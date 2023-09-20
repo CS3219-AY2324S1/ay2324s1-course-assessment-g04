@@ -1,3 +1,15 @@
 [submodule "project/question_service"]
 	path = project/question_service
 	url = git@github.com:CS3219-AY2324S1-G04/peerprep_question_service.git
+[submodule "project/gateway_service"]
+	path = project/gateway_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_gateway_service.git
+[submodule "project/user_service"]
+	path = project/user_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_user_service.git
+[submodule "project/webpage_service"]
+	path = project/webpage_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_webpage_service.git
+[submodule "project/matching_service"]
+	path = project/matching_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_matching_service.git
