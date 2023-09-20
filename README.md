@@ -1,2 +1,22 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6BOvYMwN)
-# AssignmentTemplate
+# G04 Projects & Assignments
+
+This repository is designed as a collection of Git submodules.
+
+## Guide
+### Cloning the Repository
+
+By default, `git clone` will not clone submodule repositories, leaving you with empty directories where the submodule repository files should be. To clone all files including those of the submodule repositories, use the `--recurse-submodules` option.
+
+```
+git clone --recurse-submodules git@github.com:CS3219-AY2324S1/ay2324s1-course-assessment-g04.git
+```
+
+### Updating Submodule
+
+Git submodule points to a specific commit in the submodule repository. When a submodule repository is updated, the parent repository has to be updated manually.
+
+```
+cd <submodule_repo_dir>
+git pull origin master
+cd <parent_repo_dir>
+```
