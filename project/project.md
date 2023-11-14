@@ -17,6 +17,8 @@ Some bash scripts are provided to automate common tasks. Make sure that these sc
 
 Pulls the master branch of all submodules in the `project` directory.
 
+Remember to run `git add .` and `git commit` after this script has completed to create a commit in this repository which records down the new git submodule commits that are being referenced.
+
 This script currently does not pull Chat Service as it does not have a `master` branch
 
 ### `build_images.sh`
