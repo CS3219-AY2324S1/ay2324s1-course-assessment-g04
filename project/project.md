@@ -17,6 +17,8 @@ Some bash scripts are provided to automate common tasks. Make sure that these sc
 
 Pulls the master branch of all submodules in the `project` directory.
 
+This script currently does not pull Chat Service as it does not have a `master` branch
+
 ### `build_images.sh`
 
 Builds and pushes all Docker images.
