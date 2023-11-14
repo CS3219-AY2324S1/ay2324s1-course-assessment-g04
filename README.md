@@ -22,11 +22,3 @@ cd <parent_repo_dir>
 git add .
 git commit
 ```
-
-### Updating All Submodules
-
-```bash
-git pull --recurse-submodules
-git add .
-git commit
-```

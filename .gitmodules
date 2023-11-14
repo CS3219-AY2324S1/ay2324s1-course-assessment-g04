@@ -16,3 +16,18 @@
 [submodule "assignment_1"]
 	path = assignment_1
 	url = git@github.com:CS3219-AY2324S1-G04/cs3219_assignment_1.git
+[submodule "project/room_service"]
+	path = project/room_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_room_service.git
+[submodule "project/editor_service"]
+	path = project/editor_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_editor_service.git
+[submodule "project/docs_service"]
+	path = project/docs_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_docs_service.git
+[submodule "project/attempt_history_service"]
+	path = project/attempt_history_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_attempt_history_service.git
+[submodule "project/chat_service"]
+	path = project/chat_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_chat_service.git
