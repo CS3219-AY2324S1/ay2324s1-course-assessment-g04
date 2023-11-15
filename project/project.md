@@ -18,6 +18,8 @@ Move them into the same directory as this file and rename them as such:
 - Rename `Project-peerprep_sealed_secret_tls.crt` to `peerprep_sealed_secret_tls.crt`
 - Rename `Project-peerprep_sealed_secret_tls.key` to `peerprep_sealed_secret_tls.key`
 
+WARNING: Kubernetes deployment may not work correctly on Macbooks which utilise ARM processors.
+
 ## Deployment
 
 ### Steps
@@ -80,6 +82,7 @@ Although our method of deployment allows for deployment on a Kubernetes cluster 
 - Databases and message brokers are hosted externally on the cloud.
   - Internet connection is needed.
   - Deploying on a Kubernetes cluster running within the NUS school network may not be possible. Last we checked, the NUS school network was blocking one of our databases, MongoDB Atlas cloud.
+- During development, we were unable to get Kubernetes deployment working on Macbooks which utilise ARM.
 
 **Deploy:**
 
