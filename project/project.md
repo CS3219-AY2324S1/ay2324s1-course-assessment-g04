@@ -97,9 +97,13 @@ Although our method of deployment allows for deployment on a Kubernetes cluster 
 
 3. Create PeerPrep Kubernetes objects.
 
-    ```bash
-    ./k8s.sh up
-    ```
+    - To deploy all services, run:
+
+        ```bash
+        ./k8s.sh up
+        ```
+
+    - To deploy specific services, please refer to the deployment instructions in the README file of the repository corresponding to the service. The list of service repositories can be found [here](https://github.com/orgs/CS3219-AY2324S1-G04/repositories).
 
 4. Check that all pods are running. Please wait until the statuses of all pods are either `Running` or `Completed`.
 
