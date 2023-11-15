@@ -22,6 +22,7 @@ if [[ $1 == up ]]; then
     for k in ${dir_names[@]}; do
         cd $k/kubernetes
 
+        chmod 744 ./deploy.sh
         ./deploy.sh -y
 
         # Removing this line might get you blocked by GitHub container registry for making too many pull request too quickly
