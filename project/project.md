@@ -118,7 +118,12 @@ Although our method of deployment allows for deployment on a Kubernetes cluster 
             ```
             MINIKUBE_IP peerprep.us.to
             ```
-        - On Windows, TODO:
+        - On Windows, modify the `C:\Windows\System32\drivers\etc\hosts` file by adding a new line:
+            ```
+            127.0.0.1 peerprep.us.to
+            ```
+            - Ensure your text editor is running in administrator mode.
+            - Empty your dns cache by running `ipconfig /flushdns` in Windows Powershell.
     3. Restart your browser for your browser to take this into account.
 
 6. Open a Minikube tunnel.
