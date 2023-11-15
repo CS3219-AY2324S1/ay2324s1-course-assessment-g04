@@ -25,7 +25,7 @@ if [[ $1 == up ]]; then
         ./deploy.sh -y
 
         # Removing this line might get you blocked by GitHub container registry for making too many pull request too quickly
-        sleep 5
+        sleep 30
 
         cd ${start_dir}
     done
