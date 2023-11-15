@@ -83,10 +83,10 @@ Although our method of deployment allows for deployment on a Kubernetes cluster 
 
 **Deploy:**
 
-1. Start the Minikube cluster
+1. Start the Minikube cluster with the `docker` driver.
 
     ```bash
-    minikube start
+    minikube start --driver=docker
     ```
 
 2. Setup the Kubernetes cluster.
