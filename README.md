@@ -33,6 +33,16 @@ git commit
 
 Refer to [project](project/project.md).
 
-## Assigment 5
+## Assignment 1
+
+Refer to the "README.md" in the "assignment_1" directory.
+
+If the "assignment_1" directory is empty, please run:
+
+```bash
+git submodule update --init
+```
+
+## Assigmnent 5
 
 Refer to [assignment_5](assignment_5/assignment_5.md).
