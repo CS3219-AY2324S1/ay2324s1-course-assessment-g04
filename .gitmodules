@@ -61,3 +61,12 @@
 [submodule "assignment_5/gateway_service"]
 	path = assignment_5/gateway_service
 	url = git@github.com:CS3219-AY2324S1-G04/peerprep_gateway_service.git
+[submodule "assignment_2/user_service"]
+	path = assignment_2/user_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_user_service.git
+[submodule "assignment_2/question_service"]
+	path = assignment_2/question_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_question_service.git
+[submodule "assignment_2/webpage_service"]
+	path = assignment_2/webpage_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_webpage_service.git

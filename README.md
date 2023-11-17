@@ -43,6 +43,10 @@ If the "assignment_1" directory is empty, please run:
 git submodule update --init
 ```
 
+## Assigmnent 2
+
+Refer to [assignment_2](assignment_2/assignment_2.md).
+
 ## Assigmnent 5
 
 Refer to [assignment_5](assignment_5/assignment_5.md).
