@@ -73,7 +73,7 @@ docker image rm ghcr.io/cs3219-ay2324s1-g04/peerprep_question_service_api
 
 ### Delete
 
-1. Stop the Webpage Service in the terminal which is running Webpage Service's `npm run dev`. You can do so by issuing the Ctrl+c shortcut.
+1. Stop the Webpage Service in the terminal which is running Webpage Service's `npm run dev` command. You can do so by using the ctrl+c keyboard shortcut or by closing the terminal.
 
 2. Delete Docker containers using the `docker.sh` script.
 
