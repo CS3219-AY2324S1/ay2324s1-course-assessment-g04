@@ -47,6 +47,10 @@ git submodule update --init
 
 Refer to [assignment_2](assignment_2/assignment_2.md).
 
+## Assigmnent 3 & 4
+
+Refer to [assignment_3_and_4](assignment_3_and_4/assignment_3_and_4.md).
+
 ## Assigmnent 5
 
 Refer to [assignment_5](assignment_5/assignment_5.md).
