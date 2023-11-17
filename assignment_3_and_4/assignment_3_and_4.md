@@ -1,5 +1,7 @@
 # G04 Assignment 3 & 4
 
+Note that our code may contain many unused components and modules. This is because said components and modules are used in the project but their associated pages and code which utilise them were stripped out for the assignment submission.
+
 ## Prerequisite
 
 Make sure that the following are installed on your device:
