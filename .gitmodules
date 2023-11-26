@@ -1,0 +1,81 @@
+[submodule "project/question_service"]
+	path = project/question_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_question_service.git
+[submodule "project/gateway_service"]
+	path = project/gateway_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_gateway_service.git
+[submodule "project/user_service"]
+	path = project/user_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_user_service.git
+[submodule "project/webpage_service"]
+	path = project/webpage_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_webpage_service.git
+[submodule "project/matching_service"]
+	path = project/matching_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_matching_service.git
+[submodule "assignment_1"]
+	path = assignment_1
+	url = git@github.com:CS3219-AY2324S1-G04/cs3219_assignment_1.git
+[submodule "project/room_service"]
+	path = project/room_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_room_service.git
+[submodule "project/editor_service"]
+	path = project/editor_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_editor_service.git
+[submodule "project/docs_service"]
+	path = project/docs_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_docs_service.git
+[submodule "project/attempt_history_service"]
+	path = project/attempt_history_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_attempt_history_service.git
+[submodule "project/chat_service"]
+	path = project/chat_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_chat_service.git
+[submodule "assignment_5/user_service"]
+	path = assignment_5/user_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_user_service.git
+[submodule "assignment_5/question_service"]
+	path = assignment_5/question_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_question_service.git
+[submodule "assignment_5/matching_service"]
+	path = assignment_5/matching_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_matching_service.git
+[submodule "assignment_5/room_service"]
+	path = assignment_5/room_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_room_service.git
+[submodule "assignment_5/editor_service"]
+	path = assignment_5/editor_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_editor_service.git
+[submodule "assignment_5/chat_service"]
+	path = assignment_5/chat_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_chat_service.git
+[submodule "assignment_5/attempt_history_service"]
+	path = assignment_5/attempt_history_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_attempt_history_service.git
+[submodule "assignment_5/docs_service"]
+	path = assignment_5/docs_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_docs_service.git
+[submodule "assignment_5/webpage_service"]
+	path = assignment_5/webpage_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_webpage_service.git
+[submodule "assignment_5/gateway_service"]
+	path = assignment_5/gateway_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_gateway_service.git
+[submodule "assignment_2/user_service"]
+	path = assignment_2/user_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_user_service.git
+[submodule "assignment_2/question_service"]
+	path = assignment_2/question_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_question_service.git
+[submodule "assignment_2/webpage_service"]
+	path = assignment_2/webpage_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_webpage_service.git
+[submodule "assignment_3_and_4/user_service"]
+	path = assignment_3_and_4/user_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_user_service.git
+[submodule "assignment_3_and_4/question_service"]
+	path = assignment_3_and_4/question_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_question_service.git
+[submodule "assignment_3_and_4/webpage_service"]
+	path = assignment_3_and_4/webpage_service
+	url = git@github.com:CS3219-AY2324S1-G04/peerprep_webpage_service.git
